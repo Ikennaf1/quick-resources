@@ -1,6 +1,8 @@
 # A listing of great TailwindCSS resources
 
-## Templates and components
+## Quick starter kits
+<details open>
+<summary>Templates and components (Mostly free)</summary>
 
 - [Kometa UI Kit](https://kitwind.io/products/kometa/)
 - [Tailwind awesome](https://www.tailwindawesome.com)
@@ -17,3 +19,6 @@
 - [Kutty](https://kutty.netlify.app/)
 - [PostSrc](https://postsrc.com/components)
 - [TailBlocks](https://tailblocks.cc/)
+- [Git Unlight](https://github.com/unlight/tailwind-components)
+
+</details>
