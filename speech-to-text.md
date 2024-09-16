@@ -2,7 +2,7 @@
 
 ## Web (No signup)
 <details open>
-<summary>Templates and components (Mostly free)</summary>
+<summary>Website interface (Mostly free)</summary>
 
 - [Restream](https://restream.io/tools/transcribe-audio-to-text)
 - [Zamzar](https://www.zamzar.com/tools/audio-to-text/)
