@@ -4,6 +4,7 @@
 <details open>
 <summary>Templates and components (Mostly free)</summary>
 
+- [TailwindCSS Showcase](https://tailwindcss.com/showcase)
 - [Kometa UI Kit](https://kitwind.io/products/kometa/)
 - [Tailwind awesome](https://www.tailwindawesome.com)
 - [Hyper UI](https://www.hyperui.dev/)
